@@ -178,6 +178,23 @@ max-width: 704px;
         padding-top: 60px;  
     }
 
+    .menu-item {
+        margin-bottom: 30px;
+        font-size: 24px;
+        font-weight: 400;
+    }
+
+    .menu-close-btn {
+        position: absolute;
+        top:20px;
+        right: 20px;
+    }
+
+    .mobile-menu {
+        margin-top: 60px;
+        padding-top: 60px;
+    }
+
     .menu-button {
         display: flex;
     }
